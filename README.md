@@ -8,5 +8,5 @@
 
 ## Requisitos
 
-- [x] Encaminhamento e redirecionamento
+- [ ] Encaminhamento e redirecionamento
 
